@@ -1,1 +1,2 @@
-# BJ_PROJECT
+# bj_project
+Project Black Jack
